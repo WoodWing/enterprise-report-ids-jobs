@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LocalizationMap language="esES">
+  <Term key="UnresponsiveIdsJobs.NOTIFY_EMAIL_SUBJECT">Enterprise Server notification: InDesign Server Job not responding</Term>
+  <Term key="UnresponsiveIdsJobs.NOTIFY_EMAIL_HEADER">For your information: it has been detected that processing the following InDesign Server job is taking longer than expected:</Term>
+  <Term key="UnresponsiveIdsJobs.NOTIFY_EMAIL_JOB_FOUND">* Job: %1</Term>
+  <Term key="UnresponsiveIdsJobs.NOTIFY_EMAIL_JOB_START_TIME">* Started at: %1</Term>
+  <Term key="UnresponsiveIdsJobs.NOTIFY_EMAIL_JOB_IDSVR_INSTANCE">* InDesign Server instance: %1:%2</Term>
+  <Term key="UnresponsiveIdsJobs.NOTIFY_EMAIL_CONSIDER_RESTART">Consider restarting the InDesign Server instance.</Term>
+  <Term key="UnresponsiveIdsJobs.NOTIFY_OBJECT_POSSIBLY_LOCKED">The job was run on Enterprise object: '%1'. Check if this object has not been unlocked by the InDesign Server job.</Term>
+</LocalizationMap>
